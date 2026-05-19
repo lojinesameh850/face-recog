@@ -1,10 +1,5 @@
 att-database-of-faces/
 
-pca_model/*.npy
-!eigenvalues.npy
-!mean_face.npy
-
-processed_data/D_train.npy
-processed_data/D_test.npy
-
+**/*.npy
+**/*.zip
 *.png
